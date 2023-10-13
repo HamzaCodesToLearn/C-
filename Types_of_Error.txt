@@ -1,0 +1,6 @@
+There are three types of errors in c++ 
+1) Compile time errors{ syntax error or any human mistake while writting the program}
+
+2) Runtime errors{ not getting the output that you intended to get}
+
+3) Warnings{ compiler warnings that are not serious enough}
